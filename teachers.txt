@@ -1,0 +1,2 @@
+﻿Alexander,Petrovich,Shimyanga,01.01.1964,AM,25.09.2004,Rector
+Fiona,Alexandrovna,Shimyanga,01.01.1990,AM,25.09.2016,Lecturer
